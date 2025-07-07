@@ -1,1 +1,1 @@
-# eventif
+# eventif - projeto
